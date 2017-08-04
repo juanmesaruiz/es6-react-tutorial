@@ -1,0 +1,51 @@
+asynFun = () => {
+    return new Promise(
+        function (resolve, reject) {
+            resolve(result);
+            reject(error);
+        }
+    )
+};
+
+asynFun()
+.then(result => {12348})
+.catch(error => {48697});
+
+let myPromise = new Promise(function (resolve, reject) {
+    setTimeout(function () {
+        resolve('Yeah!');
+    },1000);
+});
+
+myPromise
+.then(function (value) {
+    console.log(value);
+});
+
+function testCall(url) {
+    return new Promise(function (resolve, reject) {
+       let request = new XMLHttpRequest();
+       request.open('GET', url);
+
+       request.onload = function () {
+           if(request.status == 200){
+               resolve(request.response);
+           } else {
+               reject(Error(request.statusText));
+           }
+       };
+
+       request.onerror = function () {
+           reject(Error('Network Issues'));
+       };
+
+       request.send();
+    });
+}
+
+testCall('https://randomuser.me/api')
+.then(function (response) {
+    console.log('Yeah its work!');
+}, function (error) {
+    console.log('Error :(');
+});

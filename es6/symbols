@@ -1,0 +1,25 @@
+// every symbol is unique
+
+let sym1 = Symbol('Batman');
+let sym2 = Symbol('Batman');
+
+console.log(sym1 === sym2); // FALSE, because every symbol is unique
+
+let obj = {
+    name: 'Bruce',
+    power: 'rich',
+    [sym1]: 2347
+};
+
+console.log(obj); // dont return sym1
+console.log(obj[sym1]); // only return sym1
+
+//USE case 1
+const M_KEY = Symbol();
+
+let obj1 = {};
+
+obj[M_KEY] = 9876;
+
+//USE case 2
+const color_red = Symbol('Red');
