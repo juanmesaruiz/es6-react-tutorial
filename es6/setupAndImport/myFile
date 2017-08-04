@@ -1,0 +1,10 @@
+let score = 200;
+
+function cardFees() {
+    console.log('card Fees was charged');
+};
+
+let name = 'John';
+
+export {score, cardFees};
+export default name;

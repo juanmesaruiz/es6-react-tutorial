@@ -1,0 +1,32 @@
+let pikachu = {
+  name: 'pikachu name',
+  power: 'I can electrify'
+};
+
+let bulbasaur = {
+    name: 'bulbasaur name',
+    power: 'forest power'
+};
+
+let pokemon = new Map();
+
+pokemon.set('pika', pikachu);
+pokemon.set('bul', bulbasaur);
+
+console.log(pokemon.size); // to get the size of pokemon, 2
+
+console.log(pokemon.get('pika')); // to get the info of one var
+
+console.log(pokemon.keys()); // to get all the keys of the map
+
+for (key of pokemon.keys()) {
+    console.log(key);
+}
+
+for (val of pokemon.values()) { // to get all the values of the different components of the map
+    console.log(val);
+}
+
+for (val of pokemon) { // to get all the keys + values
+    console.log(val);
+}

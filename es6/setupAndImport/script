@@ -1,0 +1,10 @@
+// Code goes here
+
+//import name, {score, cardFees} from './myFile.js';
+//console.log(score + ' of ' + name);
+
+import * as values from './myFile.js';
+
+console.log(values.score + ' of ' + values.default);
+
+values.cardFees();

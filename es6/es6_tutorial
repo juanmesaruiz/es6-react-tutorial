@@ -1,0 +1,93 @@
+// ES6
+/** Variables:
+ * se pueden declarar variables sin poner nada delante, ej: score = 23;
+ * const - variable constante, no tiene que modificarse, si es un array se puede añadir más info (push), pero si es un string, etc, no se puede modificar.
+ * let - define una variable limitando su alcance al bloque o expresión
+ */
+
+/** Functions: */
+function1 = () => {console.log('estoEsUnaFunciónArrow')};
+function1();
+
+function2 = (variable, anotherVar) => {
+    console.log(variable + anotherVar)
+};
+function2(20,30);
+
+function3 = (variable, anotherVar) => console.log(variable + anotherVar);
+function3();
+
+/** Function & this: */
+functionThis = () => console.log(this);
+
+/** Default parameters: */
+defaultParameters = (temp, cold = 10) => {
+    if (temp < cold) {
+        return "This is cold here";
+    } else {
+        return "This is not so cold"
+    }
+};
+defaultParameters(15);
+
+/** Dynamic Object: */
+let score = 900;
+let wrath = 'angry';
+
+let myObj = {
+    user: 'John',
+    score: 200,
+    angry: 99,
+    highScore() {
+        console.log('you score is ' + this.score);
+    }
+};
+console.log(myObj.user + ': ' + myObj.score);
+console.log(myObj.highScore());
+console.log(myObj[wrath]);
+
+/** Loops */
+let cars = ['BMW', 'Audi', 'Seat', 'Nissan'];
+let anotherLoop = "HelloMan";
+
+for (let car of cars) {
+    console.log(car);
+}
+
+for (let letter of anotherLoop){
+    console.log(letter);
+}
+
+/** SuperDots */
+function deposit(...money) {
+    console.log(money);
+
+    let balance = 0;
+    for(let i= 0; i < money.length; i++){
+        balance += money[i];
+    }
+    return balance;
+}
+console.log(deposit(50, 40, 30, 2));
+
+let addMoney = [35, 80, 45, 44];
+console.log(...addMoney);
+console.log(Math.max(...addMoney));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
