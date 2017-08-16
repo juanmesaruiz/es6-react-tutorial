@@ -46,7 +46,7 @@ class Parent extends Component {
             cars: ['s-Volvo', 's-BMW', 's-Audi', 's-Ford', 's-Renault']
         };
 
-        this.handleClick = this.handleClick().bind(this);
+        this.handleClick = this.handleClick.bind(this);
     }
 
     handleClick() {
@@ -56,7 +56,7 @@ class Parent extends Component {
     render() {
         return(
             <div>
-                <h2 onClick={this.handleClick}>Just some info</h2>
+                <h2 onClick={this.handleClick}>Just some info (click me)</h2>
                 <Cars msg="cars are cool" model="123456789" coolCars={this.state.cars}/>
             </div>
         )
