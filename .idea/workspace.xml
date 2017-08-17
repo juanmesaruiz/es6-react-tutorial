@@ -2,102 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce5b942d-5b5a-4d85-bd7d-d5b3e40658be" name="Default" comment="FIXED P3">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/img/about-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/img/contact-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/img/home-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/img/post-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/img/post-sample-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/css/clean-blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/css/clean-blog.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/js/clean-blog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/js/clean-blog.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/js/contact_me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/js/jqBootstrapValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/mail/contact_me.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_bootstrap-overrides.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_contact.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_masthead.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_post.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/scss/clean-blog.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/popper/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/public/vendor/popper/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/App.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/App.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/Footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/Header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/NavBar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/container/Container.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/container/PostPreview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/blog/src/registerServiceWorker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/public/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/Timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-scale-apps/stop-watch/src/registerServiceWorker.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -113,76 +31,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/public/index.html">
+      <file leaf-file-name="Timer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/full-scale-apps/stop-watch/src/Timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="527">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/App.js">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Container.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/container/Container.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PostPreview.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/container/PostPreview.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/Header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="40" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavBar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/NavBar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clean-blog.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/public/css/clean-blog.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="152" column="30" lean-forward="true" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -238,6 +104,9 @@
         <option value="$PROJECT_DIR$/full-scale-apps/blog/src/container/PostPreview.js" />
         <option value="$PROJECT_DIR$/full-scale-apps/blog/src/container/Container.js" />
         <option value="$PROJECT_DIR$/full-scale-apps/blog/src/App.js" />
+        <option value="$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.css" />
+        <option value="$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.js" />
+        <option value="$PROJECT_DIR$/full-scale-apps/stop-watch/src/Timer.js" />
       </list>
     </option>
   </component>
@@ -259,6 +128,7 @@
     <handled-path value="$PROJECT_DIR$/Project-3/props-state/node_modules" />
     <handled-path value="$PROJECT_DIR$/Project-4/component-life-cycle/node_modules" />
     <handled-path value="$PROJECT_DIR$/full-scale-apps/blog/node_modules" />
+    <handled-path value="$PROJECT_DIR$/full-scale-apps/stop-watch/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -432,23 +302,23 @@
       <workItem from="1502371921201" duration="5573000" />
       <workItem from="1502699657383" duration="811000" />
       <workItem from="1502700490147" duration="15117000" />
-      <workItem from="1502947414160" duration="3115000" />
+      <workItem from="1502947414160" duration="6458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68205000" />
+    <option name="totallyTimeSpent" value="71548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23445733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.241342" sideWeight="0.50842994" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.241342" sideWeight="0.4915701" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28030303" sideWeight="0.5147524" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.241342" sideWeight="0.48946258" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28030303" sideWeight="0.48946258" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28030303" sideWeight="0.48524764" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -703,17 +573,27 @@
     <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/container/Container.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -737,7 +617,7 @@
     <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/NavBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="22" />
+          <caret line="4" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -745,18 +625,34 @@
     <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/public/css/clean-blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="152" column="30" lean-forward="true" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+          <caret line="152" column="30" lean-forward="false" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/full-scale-apps/blog/src/App.js">
+    <entry file="file://$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full-scale-apps/stop-watch/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full-scale-apps/stop-watch/src/Timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
